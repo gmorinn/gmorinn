@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guillaume</h1>
-<h3 align="center">I am a French student at Epitech passionate about web and mobile application development</h3>
+<h3 align="center">I am a French student at Epitech passionate about web development</h3>
 
 - 🌱 I’m currently learning **data structures, object oriented in C ++ and deepening my skills in React**
 
