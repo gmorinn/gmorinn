@@ -9,8 +9,6 @@
 
 - 📄 Know about my experiences [guillaume-morin.fr](https://guillaume-morin.fr/)
 
-- ⚡ Fun fact **I am Iron Man**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/guillaume-morin-web" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
